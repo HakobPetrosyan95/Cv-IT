@@ -80,6 +80,17 @@ ul li {
     justify-content: space-between;
 }
 
+span {
+    width: 80px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.personal_details i {
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+}
 
 .skills ul li .div {
     margin-left: 10px;
